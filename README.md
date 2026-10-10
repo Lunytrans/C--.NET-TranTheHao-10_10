@@ -10,10 +10,12 @@
 ---
 
 ## DANH SÁCH BÀI TẬP
-BÀI 5.1: FORM ĐĂNG KÝ TÀI KHOẢN VÀ BẮT LỖI GIAO DIỆN(ERRORPROVIDER) [Bai_5.1](./Bai_5.1) |
-BÀI 5.2: BẢNG TÍNH TIỀN DỊCH VỤ VÀ CHIẾT KHẤU ĐƠN HÀNG(LISTBOX & COMBOBOX) [Bai_5.2](./Bai_5.2) |
-BÀI 5.3: FORM QUẢN LÝ DANH SÁCH SẢN PHẨM TRONG BỘ NHỚ(DATAGRIDVIEW CƠ BẢN) [Bai_5.3](./Bai_5.3) |
-BÀI 5.4: TRÌNH QUẢN LÝ TẬP TIN DẠNG CHUYÊN NGHIỆP(TREEVIEW & LISTVIEW) [Bai_5.4](./Bai_5.4) |
+| Bài | Tên bài | Thư mục |
+|---|---|---|
+| 5.1 | Form đăng ký tài khoản và bắt lỗi giao diện (ErrorProvider) | [Bai_5.1](./Bai_5.1/README.md) |
+| 5.2 | Bảng tính tiền dịch vụ và chiết khấu đơn hàng (ListBox & ComboBox) | [Bai_5.2](./Bai_5.2/README.md) |
+| 5.3 | Form quản lý danh sách sản phẩm trong bộ nhớ (DataGridView cơ bản) | [Bai_5.3](./Bai_5.3/README.md) |
+| 5.4 | Trình quản lý tập tin dạng chuyên nghiệp (TreeView & ListView) | [Bai_5.4](./Bai_5.4/README.md) |
 
 ---
 
