@@ -12,10 +12,10 @@
 ## DANH SÁCH BÀI TẬP
 | Bài | Tên bài | Thư mục |
 |---|---|---|
-| 5.1 | Form đăng ký tài khoản và bắt lỗi giao diện (ErrorProvider) | [Bai_5.1](./Bai_5.1/README.md) |
-| 5.2 | Bảng tính tiền dịch vụ và chiết khấu đơn hàng (ListBox & ComboBox) | [Bai_5.2](./Bai_5.2/README.md) |
-| 5.3 | Form quản lý danh sách sản phẩm trong bộ nhớ (DataGridView cơ bản) | [Bai_5.3](./Bai_5.3/README.md) |
-| 5.4 | Trình quản lý tập tin dạng chuyên nghiệp (TreeView & ListView) | [Bai_5.4](./Bai_5.4/README.md) |
+| 5.1 | Form đăng ký tài khoản và bắt lỗi giao diện (ErrorProvider) | [Bai_5.1](./Bai_5.1) |
+| 5.2 | Bảng tính tiền dịch vụ và chiết khấu đơn hàng (ListBox & ComboBox) | [Bai_5.2](./Bai_5.2) |
+| 5.3 | Form quản lý danh sách sản phẩm trong bộ nhớ (DataGridView cơ bản) | [Bai_5.3](./Bai_5.3) |
+| 5.4 | Trình quản lý tập tin dạng chuyên nghiệp (TreeView & ListView) | [Bai_5.4](./Bai_5.4) |
 
 ---
 
