@@ -36,6 +36,6 @@ BÀI 5.4: TRÌNH QUẢN LÝ TẬP TIN DẠNG CHUYÊN NGHIỆP(TREEVIEW & LISTVIE
 
 ### Bài 5.4
 ![Giao diện chính](./Bai_5.4/Anh_giao_dien_chinh.png)
-![Thực Thi](./Bai_5.4/Anh_chuc_nang_ket_qua.png)
+![Thực Thi](./Bai_5.4/Anh_Thuc_thi_chuc_nang_ket_qua.png)
 ![Chức năng-kết quả](./Bai_5.4/Anh_chuc_nang_ket_qua.png)
 ---
